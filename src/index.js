@@ -1,3 +1,4 @@
+// インポート
 import Page04  from './04_linkWithDOM';
 import Page05  from './05_shader';
 
