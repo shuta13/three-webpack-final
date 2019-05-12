@@ -15,7 +15,8 @@
 │   │   ├── css
 │   │   │   └── common.css
 │   │   └── js
-│   │       └── main.js
+│   │   │   ├── main.js
+│   │       └── vendor.js
 │   └── index.html
 └── src                // 開発用
     ├── XX_SomethingProduct
