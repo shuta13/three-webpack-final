@@ -3,20 +3,20 @@
   "version": "1.0.0",
   "description": "threejsによるwebgl開発テンプレート",
   "scripts": {
-    "start":"npm run serve & npm run watch",
-    "serve":"browser-sync start -c ./config/bs-config.js",
-    "watch":"webpack --mode development --config ./config/webpack.config.js -w",
-    "build":"webpack --mode development --config ./config/webpack.config.js",
-    "prod":"webpack --mode production --config ./config/webpack.config.js"
+    "start": "npm run serve & npm run watch",
+    "serve": "browser-sync start -c ./config/bs-config.js",
+    "watch": "webpack --mode development --config ./config/webpack.config.js -w",
+    "build": "webpack --mode development --config ./config/webpack.config.js",
+    "prod": "webpack --mode production --config ./config/webpack.config.js"
   },
   "author": "did0es",
   "license": "MIT",
   "devDependencies": {
-    "@babel/core": "^7.4.4",
-    "@babel/preset-env": "^7.4.4",
-    "babel-loader": "^8.0.5",
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "babel-loader": "^8.0.6",
     "browser-sync": "^2.26.5",
-    "webpack": "^4.31.0",
+    "webpack": "^4.32.2",
     "webpack-cli": "^3.3.2",
     "webpack-glsl-loader": "^1.0.1"
   },
