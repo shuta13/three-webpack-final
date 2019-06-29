@@ -3,6 +3,8 @@
 ## 参考
 - https://github.com/p5aholic/project-template
 - https://github.com/watab0shi/threejs-workshop
+## お借りした作品
+- https://qiita.com/watabo_shi/items/bf9bcd4569b6d480c608
 ## ディレクトリ構成
 ```text
 ├── config
