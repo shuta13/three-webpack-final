@@ -28,7 +28,7 @@ module.exports = {
         "baseDir": "./public/"
     },
     "proxy": false,
-    "port": 3000,
+    "port": 8800,
     "middleware": false,
     "serveStatic": [],
     "ghostMode": false,
